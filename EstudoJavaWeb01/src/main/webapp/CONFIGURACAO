@@ -1,0 +1,10 @@
+	Dynamic Web Project
+	===================
+Passos:
+-Criar o banco de dados
+-Criar a Classe de Conexão no padrão connection.SingleConnection
+-Adicionar o Driver JDBC - DOWNLOAD DO POSTGRESQL-422.20.JAR EM https://jdbc.postgresql.org/download.html
+-Criar o Filtro, classe que controla a conexão, validações - filter.Filter
+-Adicionar o filtro no web.xml
+-Adicionar classes Bootstrap v3.4.1 (https://getbootstrap.com/)
+
